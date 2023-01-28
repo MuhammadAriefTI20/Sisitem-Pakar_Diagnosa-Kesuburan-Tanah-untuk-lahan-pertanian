@@ -27,3 +27,14 @@ Kelompok 1 Aplikasi Diagnosa Kesuburan Tanah Untuk Lahan Pertanian Teorema Bayes
   alt="Alt text"
   title="Halaman Pengetahuan"
   style="display: inline-block; margin: 0 auto; width:150px;">
+<br><br><br><b>Tampilan Contoh AdminWeb:</b><br>
+<img
+  src="/sample/admutamasispakkel1.png "
+  alt="Alt text"
+  title="Halaman Utama"
+  style="display: inline-block; margin: 0 auto; width:150px;"><br><br>
+  <img
+  src="/sample/admsispakkel1.png"
+  alt="Alt text"
+  title="Halaman Basis Aturan"
+  style="display: inline-block; margin: 0 auto; width:150px;">
