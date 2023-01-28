@@ -11,4 +11,4 @@ Kelompok 1 Aplikasi Diagnosa Kesuburan Tanah Untuk Lahan Pertanian Teorema Bayes
   src="/sample/IMG-20230128-WA0005.jpg"
   alt="Alt text"
   title="Halaman Utama"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  style="display: inline-block; margin: 0 auto; width:150px;">
