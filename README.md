@@ -5,4 +5,10 @@ Kelompok 1 Aplikasi Diagnosa Kesuburan Tanah Untuk Lahan Pertanian Teorema Bayes
 -Muhammad Arief<br>
 -Meitarani Rezki Handayani<br>
 -Atisya Badhitunrahma Yusuf <br>
--Fransiskus X A Kocu<br>
+-Fransiskus X A Kocu<br><br>
+<br><b>Tampilan Contoh Aplikasi:</b><br>
+<img
+  src="/sample/IMG-20230128-WA0005.jpg"
+  alt="Alt text"
+  title="Halaman Utama"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
